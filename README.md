@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Ashley Mathias 🚀</h1>  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7B93E&center=true&vCenter=true&width=600&lines=AI+Enthusiast+🔥+ML+Engineer+🤖; Solving+problems+one+line+of+code+at+a+time!+💻;Always+learning%2C+always+building+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7B93E&center=true&vCenter=true&width=600&lines=AI+Enthusiast+🔥+ML+Engineer+🤖; One+line,+one+solution.+Let’s+code!+💻;Always+learning%2C+always+building+🚀" />
 </p>
 
 <p align="center">
