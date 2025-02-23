@@ -62,7 +62,7 @@
 
 
 🌎 Let’s Connect!  
-📌 [LinkedIn](https://linkedin.com/in/your-profile)  
+📌 [LinkedIn](https://linkedin.com/in/ashleymathias10)  
 📌 [Portfolio](https://your-portfolio-link.com)  
 📌 [Email](mailto:your-email@gmail.com)  
 
