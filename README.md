@@ -81,10 +81,19 @@
 - **Developing Scalable AI Solutions**  
 
 
-🌎 Let’s Connect!  
-📌 [LinkedIn](https://linkedin.com/in/ashleymathias10)  
-📌 [Kaggle](https://www.kaggle.com/ashleymathias31)
-📌 [Email](ashleymathias100@gmail.com)  
+<h2> 🔗 Connect With Me </h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashleymathias10/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/ashleymathias31">
+    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://github.com/AshleyMathias">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 
 ✨ Feel free to explore my repositories & collaborate on AI-driven projects! 🚀
