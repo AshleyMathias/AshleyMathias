@@ -64,6 +64,7 @@
 🌎 Let’s Connect!  
 📌 [LinkedIn](https://linkedin.com/in/ashleymathias10)  
 📌 [Kaggle](https://www.kaggle.com/ashleymathias31)
+
 📌 [Email](ashleymathias100@gmail.com)  
 
 
