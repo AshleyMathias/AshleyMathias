@@ -59,7 +59,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AshleyMathias&theme=radical" width="48%"/>
 </p>
   
+<h2> 🚀 Currently Working On </h2>
 
+- 🤖 **Building AI Models in Python & Kotlin**
+- 🚀 **Mastering NLP & Deep Learning**
+- 🛠️ **Optimizing Machine Learning Pipelines**
+- 🔥 **Contributing to Open-Source AI Projects**
+- 📚 **Expanding Knowledge in Data Science & AI**
+  
 > _More projects coming soon..._ ✨  
 
 
