@@ -59,14 +59,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AshleyMathias&theme=radical" width="48%"/>
 </p>
   
-<h2> 🚀 Currently Working On </h2>
+## 🚀 Featured Projects
 
-- 🤖 **Building AI Models in Python & Kotlin**
-- 🚀 **Mastering NLP & Deep Learning**
-- 🛠️ **Optimizing Machine Learning Pipelines**
-- 🔥 **Contributing to Open-Source AI Projects**
-- 📚 **Expanding Knowledge in Data Science & AI**
-  
+| **Project**                                                           | **Description**                                                                                           | **Tech Stack**                                          |
+|----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+| [NLP Chatbot for Customer Support](https://github.com/AshleyMathias/NLP-Chatbot) | An AI-driven chatbot to handle FAQs and complex user queries with advanced NLP.                           | **Python**, **TensorFlow**, **NLP**, **Transformers**  |
+| [Medical Data Analysis Tool](https://github.com/AshleyMathias/Med-Analytics)      | Predicting patient risk levels & proposing treatments using ML algorithms and data visualization.         | **Python**, **Pandas**, **Scikit-Learn**, **Seaborn**  |
+| [AI-Powered Recommendation Engine](https://github.com/AshleyMathias/AI-Recommendations) | Personalized product recommendations for e-commerce using collaborative filtering and machine learning.    | **Python**, **PyTorch**, **Machine Learning**          |
+
 > _More projects coming soon..._ ✨  
 
 
