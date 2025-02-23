@@ -58,12 +58,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AshleyMathias&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AshleyMathias&theme=radical" width="48%"/>
 </p>
+  
+<h2> 💡 Featured Projects </h2>
 
-🚀 Featured Projects  
+### 🏥 Hospital Queue Management System
+> 📌 Optimizing patient queues, bed availability & inventory automation.
 
-🔹 **NLP-Based AI Chatbot** 🤖 - Advanced chatbot built using Transformer models.  
-🔹 **AI-Powered Search Engine** 🔍 - Intelligent search system using NLP techniques.  
-🔹 **Medical Data Analysis Tool** 🏥 - Predictive analytics for healthcare insights.  
+![Project GIF](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+
+---
+
+### 🛋️ AI-Powered Custom Furniture App
+> 🎨 Users design furniture, AI generates models, and carpenters build them!
+
+![Project GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+  
 
 > _More projects coming soon..._ ✨  
 
