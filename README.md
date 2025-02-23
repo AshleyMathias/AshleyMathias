@@ -59,28 +59,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AshleyMathias&theme=radical" width="48%"/>
 </p>
   
-<h2> 💡 Featured Projects </h2>
-
-### 🏥 Hospital Queue Management System
-> 📌 Optimizing patient queues, bed availability & inventory automation.
-
-![Project GIF](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
-
----
-
-### 🛋️ AI-Powered Custom Furniture App
-> 🎨 Users design furniture, AI generates models, and carpenters build them!
-
-![Project GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
-  
 
 > _More projects coming soon..._ ✨  
 
 
-💡 What I’m Working On  
-- **Enhancing NLP Models & AI Research**  
-- **Experimenting with Generative AI**  
-- **Developing Scalable AI Solutions**  
+<h2> 🚀 Currently Working On </h2>
+
+- 🤖 **Building AI Models in Python & Kotlin**
+- 🚀 **Mastering NLP & Deep Learning**
+- 🛠️ **Optimizing Machine Learning Pipelines**
+- 🔥 **Contributing to Open-Source AI Projects**
+- 📚 **Expanding Knowledge in Data Science & AI** 
 
 
 <h2> 🔗 Connect With Me </h2>
