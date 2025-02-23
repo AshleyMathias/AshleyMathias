@@ -7,27 +7,47 @@
 
 
 🌟 Tech Stack & Skills  
+<h2> 🚀 Tech Stack & Skills </h2>
 
-💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) 
+<table>
+  <tr>
+    <td><b>💻 Programming</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-%2300ADD8.svg?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td><b>🤖 AI & ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Machine%20Learning-%23FF9800.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Deep%20Learning-%239C27B0.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/NLP-%234CAF50.svg?style=for-the-badge&logo=googletranslate&logoColor=white" />
+    </td>
+  </tr>
 
-🤖 AI & Machine Learning  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Natural Language Processing](https://img.shields.io/badge/NLP-228B22?style=for-the-badge&logo=spacy&logoColor=white)  
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF3366?style=for-the-badge&logo=openai&logoColor=white)  
+  <tr>
+    <td><b>⚡ ML Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google%20Colab-%23FFD700.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+    </td>
+  </tr>
 
-🛠 Tools & Platforms  
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white)  
+  <tr>
+    <td><b>📊 Data Science</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-%231B5E20.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-%23F57C00.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+      <img src="https://img.shields.io/badge/Seaborn-%230072B5.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 
 🔥 GitHub Insights  
