@@ -21,7 +21,6 @@
 ---
 
 
-🌟 Tech Stack & Skills  
 <h2> 🚀 Tech Stack & Skills </h2>
 
 <table>
