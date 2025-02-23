@@ -63,8 +63,7 @@
 
 🌎 Let’s Connect!  
 📌 [LinkedIn](https://linkedin.com/in/ashleymathias10)  
-📌 [Portfolio](https://your-portfolio-link.com)  
-📌 [Email](mailto:your-email@gmail.com)  
+📌 [Email](ashleymathias100@gmail.com)  
 
 
 ✨ Feel free to explore my repositories & collaborate on AI-driven projects! 🚀
