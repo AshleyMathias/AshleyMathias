@@ -1,9 +1,24 @@
-🚀 Ashley Mathias | AI Engineer | ML Enthusiast  
+<h1 align="center">🚀 Ashley Mathias 🚀</h1>  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7B93E&center=true&vCenter=true&width=600&lines=AI+Enthusiast+🔥+ML+Engineer+🤖;Solving+problems+one+line+of+code+at+a+time!+💻;Always+learning%2C+always+building+🚀" />
+</p>
 
-"Transforming Data into Intelligence"  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-%234CAF50.svg?style=for-the-badge&logo=spacy&logoColor=white" />
+</p>
 
-> Passionate about **Artificial Intelligence, NLP, and Machine Learning**.  
-> Focused on **building impactful AI solutions** through **data-driven decision-making**.  
+---
+
+🔥 **"Code. Learn. Iterate. Dominate."** 🔥  
+🚀 Turning ideas into **working AI models** & **ML solutions**.  
+⚡ Automating the future with **Python, Kotlin, and AI-driven projects**.  
+📍 Find me in the **terminal**, crunching **data & algorithms**.  
+💡 **Never stuck, always debugging & optimizing!**  
+
+---
 
 
 🌟 Tech Stack & Skills  
