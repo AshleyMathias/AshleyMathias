@@ -52,19 +52,12 @@
 
 🔥 GitHub Insights  
 
-📊 My Coding Journey in a Glance  
-<table>
-<tr>
-<td> <img src="https://github-readme-stats.vercel.app/api?username=AshleyMathias&show_icons=true&theme=radical&hide_border=true" width="420px"/> </td>
-<td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshleyMathias&theme=radical&hide_border=true" width="420px"/> </td>
-</tr>
-<tr>
-<td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshleyMathias&layout=compact&theme=radical&hide_border=true" width="420px"/> </td>
-<td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshleyMathias&theme=radical" width="420px"/> </td>
-</tr>
-</table>  
+<h2> 🚀 GitHub Stats </h2>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshleyMathias&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AshleyMathias&theme=radical" width="48%"/>
+</p>
 
 🚀 Featured Projects  
 
