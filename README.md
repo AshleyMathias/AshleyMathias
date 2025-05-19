@@ -1,6 +1,7 @@
 <h1 align="center">🚀 Ashley Mathias 🚀</h1>  
 <p align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7B93E&width=600&lines=AI+Enthusiast+🔥+ML+Engineer+🤖;One+line,+one+solution.+Let’s+code!+💻;Always+learning,+always+building+🚀;Upcoming+Noogler+✨)
+
+
 
 </p>
 
