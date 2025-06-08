@@ -45,11 +45,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
- 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_title=true" alt="Top Languages" width="48%" style="border-radius:8px; border: 1px solid #FF6F00; padding: 8px;" /> </p> <p align="center" style="margin-top: 12px;"> <a href="https://leetcode.com/yourleetcode" target="_blank" style="text-decoration:none;"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /> </a> </p>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_title=true" alt="Top Languages" width="48%" style="border-radius:8px; border: 1px solid #FF6F00; padding: 8px;" /> </p> <p align="center" style="margin-top: 12px;"> <a href="https://leetcode.com/yourleetcode" target="_blank" style="text-decoration:none;"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /> </a> </p>
 
 ---
 
