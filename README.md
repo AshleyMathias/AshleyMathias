@@ -1,84 +1,92 @@
-<h1 align="center">✨ Ashley Mathias ✨</h1>
-<p align="center"><b>Tech Explorer | Python Developer | ML & Automation Enthusiast</b></p>
+<h1 align="center">🚀 Ashley Mathias 🚀</h1>
+
+<p align="center">
+  <b>Python Developer • Automation Enthusiast • Problem Solver</b>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-FFB300?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOPs-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-A6A6A6?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ---
 
-### 🌟 Motto
-> 🚀 *"Code. Learn. Iterate. Dominate."*  
-> 🛠️ I build real-world apps using Python and automation — no fluff, just functionality.
+### 💡 About Me
+
+🎯 I'm a passionate developer exploring the world of **Python, automation, DSA, and AI tools like LangChain & n8n**.  
+💼 I build useful real-world apps, simplify tasks, and document everything beautifully.  
+📈 Currently focused on: **RAG, LangChain, automation workflows, and structured Python development**.  
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
 
-### 🧠 Automated Resume Parser and Matcher
-🎯 Extracts keywords & skills from resumes and matches them with job descriptions.  
-🛠️ Built with: `Python`, `Tkinter`, `PyPDF2`, `Regex`  
+### 📄 Automated Resume Parser and Matcher
+Extracts key **skills** and **keywords** from PDF resumes & job descriptions, then intelligently matches them.  
+**Tech:** `Python`, `Tkinter`, `PyPDF2`, `Regex`  
 🔗 [View Project](https://github.com/ashleymathias/automated-resume-parser)
 
 ---
 
-### 🗃️ File Organizer and Directory Automation Tool
-📁 Automatically organizes messy folders by file type into sorted directories.  
-🛠️ Built with: `Python`, `OS`, `Shutil`, `Tkinter`  
+### 🗂️ File Organizer and Directory Automation Tool  
+Sorts your downloads automatically into folders by file type using a smart and beautiful UI.  
+**Tech:** `Python`, `Tkinter`, `OS`, `Shutil`  
 🔗 [View Project](https://github.com/ashleymathias/file-organizer)
 
 ---
 
-### 🌦️ Realtime Weather Dashboard
-🌐 Fetches and displays live weather using OpenWeatherMap API.  
-🛠️ Built with: `Tkinter`, `API Integration`, `JSON`  
+### 🌦️ Realtime Weather Dashboard  
+Displays real-time weather data using the OpenWeatherMap API. Lightweight, elegant UI built in Python.  
+**Tech:** `Python`, `API`, `Tkinter`, `JSON`  
 🔗 [View Project](https://github.com/ashleymathias/weather-dashboard)
 
 ---
 
-### 📄 Basic Prompt Engineering with RAG (Learning Project)
-🧠 Demonstrates Retrieval-Augmented Generation with static document context.  
-🛠️ Built with: `LangChain`, `Tkinter`, `FAISS`, `OpenAI`  
+### 📚 Prompt Engineering with RAG (LangChain)  
+Basic **Retrieval-Augmented Generation** app that uses document context for AI Q&A.  
+**Tech:** `LangChain`, `Python`, `FAISS`, `Tkinter`, `Prompt Engineering`  
 🔗 [View Project](https://github.com/ashleymathias/basic-rag-app)
 
 ---
 
 ## ⚙️ Tech Stack
 
-| 💡 Category | 🚀 Tools |
+| 💡 Category | ⚒️ Tools |
 |------------|----------|
-| **Programming** | `Python`, `SQL`, `OOPs`, `DSA` |
+| **Languages & Core** | `Python`, `DSA`, `OOPs`, `SQL` |
 | **Libraries** | `Pandas`, `NumPy`, `Matplotlib`, `Seaborn` |
-| **Tools** | `Jupyter`, `Google Colab`, `Cursor`, `VS Code` |
-| **Version Control** | `Git`, `GitHub` |
-| **AI/ML Concepts** | `Prompt Engineering`, `LangChain`, `RAG` |
-| **Scripting & Automation** | `Tkinter`, `Regex`, `OS`, `Shutil` |
+| **Frameworks/Tools** | `LangChain`, `Tkinter`, `Regex`, `Shutil`, `OS`, `n8n` |
+| **Dev Tools** | `Jupyter`, `Google Colab`, `Cursor`, `VS Code`, `Git`, `GitHub` |
 
 ---
 
-## 🔗 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashley-mathias/)
-- 📊 [LeetCode](https://leetcode.com/your-leetcode-id) *(update your LeetCode link if needed)*
-
----
-
-## 📜 License & Credits
-
-- 💻 **Projects** are under [MIT License](https://choosealicense.com/licenses/mit/)
-- 🧠 Inspired by real-world needs and personal learning
-- 🧑‍💻 Built and maintained with ❤️ by **Ashley Mathias**
-
----
+## 📊 Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ashleymathias?style=social" />
-  <img src="https://img.shields.io/github/stars/ashleymathias?style=social" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashleymathias&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashleymathias&layout=compact&theme=radical" width="45%" />
 </p>
 
-<p align="center"><i>Built with ⚡ passion and ☕ caffeine</i></p>
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashleymathias" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/ashleymathias" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## 🧾 License & Credits
+
+<p align="center">
+  📜 This profile and all content under featured projects are ©️ <b>Ashley Mathias</b>.  
+  Built with ❤️ using markdown, shields.io & GitHub magic.
+</p>
