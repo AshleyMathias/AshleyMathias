@@ -1,96 +1,84 @@
-<h1 align="center">🚀 Ashley Mathias 🚀</h1>
+<h1 align="center">✨ Ashley Mathias ✨</h1>
+<p align="center"><b>Tech Explorer | Python Developer | ML & Automation Enthusiast</b></p>
 
 <p align="center">
-  <i>Turning ideas into solutions. Building, Automating, and Learning with Python.</i><br>
-  <strong>🚀 Developer | 🔬 Learner | 💡 Builder</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-%23FFD700.svg?style=for-the-badge&logo=googlecolab&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-%2300748F.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-%23000000.svg?style=for-the-badge&logo=OpenAI&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-FFB300?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-🔥 **"Code. Learn. Iterate. Dominate."** 🔥  
-⚡ Exploring AI, automation, and intelligent tooling.  
-💻 Developing practical Python apps with interactive UIs.  
-🔎 Passionate about learning, experimenting, and building real-world projects.
+### 🌟 Motto
+> 🚀 *"Code. Learn. Iterate. Dominate."*  
+> 🛠️ I build real-world apps using Python and automation — no fluff, just functionality.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 **Automated Resume Parser and Matcher**
-> A Python-based tool to parse resumes and match them with job descriptions.
-- Built using **Tkinter**, **PyPDF2**, **Regex**.
-- Extracts keywords from resumes and job posts for similarity matching.
-
-[🔗 View on GitHub](https://github.com/ashleymathias/automated-resume-parser)
+### 🧠 Automated Resume Parser and Matcher
+🎯 Extracts keywords & skills from resumes and matches them with job descriptions.  
+🛠️ Built with: `Python`, `Tkinter`, `PyPDF2`, `Regex`  
+🔗 [View Project](https://github.com/ashleymathias/automated-resume-parser)
 
 ---
 
-### 📁 **File Organizer and Directory Automation Tool**
-> A GUI-based Python script that organizes files into folders by type.
-- Powered by **OS**, **shutil**, and **Tkinter**.
-- Simplifies messy directories into clean, sorted folders.
-
-[🔗 View on GitHub](https://github.com/ashleymathias/file-organizer)
+### 🗃️ File Organizer and Directory Automation Tool
+📁 Automatically organizes messy folders by file type into sorted directories.  
+🛠️ Built with: `Python`, `OS`, `Shutil`, `Tkinter`  
+🔗 [View Project](https://github.com/ashleymathias/file-organizer)
 
 ---
 
-### ☁️ **Realtime Weather Dashboard using API**
-> Tkinter-based weather app that fetches real-time data from OpenWeatherMap.
-- Integrates **API**, **JSON parsing**, and **Tkinter GUI**.
-- User-friendly interface with live weather updates by city name.
-
-[🔗 View on GitHub](https://github.com/ashleymathias/weather-dashboard)
+### 🌦️ Realtime Weather Dashboard
+🌐 Fetches and displays live weather using OpenWeatherMap API.  
+🛠️ Built with: `Tkinter`, `API Integration`, `JSON`  
+🔗 [View Project](https://github.com/ashleymathias/weather-dashboard)
 
 ---
 
-### 📄 **Basic Prompt Engineering with RAG**
-> RAG-based experiment using LangChain and local document querying.
-- Built with **LangChain**, **FAISS**, **Tkinter**.
-- Demonstrates retrieval-augmented generation on static data.
-
-[🔗 View on GitHub](https://github.com/ashleymathias/basic-rag-app)
+### 📄 Basic Prompt Engineering with RAG (Learning Project)
+🧠 Demonstrates Retrieval-Augmented Generation with static document context.  
+🛠️ Built with: `LangChain`, `Tkinter`, `FAISS`, `OpenAI`  
+🔗 [View Project](https://github.com/ashleymathias/basic-rag-app)
 
 ---
 
-## 🧰 Tech Stack & Tools
+## ⚙️ Tech Stack
 
-| Category | Tools |
-|---------|-------|
-| **Languages & Logic** | Python, SQL, DSA, OOPs |
-| **Libraries & Frameworks** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Automation & GUI** | Tkinter, Regex, LangChain |
-| **Visualization & Data** | Jupyter, Google Colab |
-| **Dev Tools** | Cursor, VS Code, Git, GitHub |
-| **AI Tools** | LangChain, RAG, OpenAI |
-| **Competitive Programming** | LeetCode |
-
----
-
-## 🌐 Let's Connect
-
-- 🔗 [LinkedIn](https://linkedin.com/in/ashley-mathias)
-- 🧠 [LeetCode](https://leetcode.com/ashleymathias)
-- 💼 [GitHub Portfolio](https://github.com/ashleymathias)
+| 💡 Category | 🚀 Tools |
+|------------|----------|
+| **Programming** | `Python`, `SQL`, `OOPs`, `DSA` |
+| **Libraries** | `Pandas`, `NumPy`, `Matplotlib`, `Seaborn` |
+| **Tools** | `Jupyter`, `Google Colab`, `Cursor`, `VS Code` |
+| **Version Control** | `Git`, `GitHub` |
+| **AI/ML Concepts** | `Prompt Engineering`, `LangChain`, `RAG` |
+| **Scripting & Automation** | `Tkinter`, `Regex`, `OS`, `Shutil` |
 
 ---
 
-## 🛡️ Licenses
+## 🔗 Connect with Me
 
-This repository and projects are released under the following licenses:
-
-- ⚖️ [MIT License](https://opensource.org/licenses/MIT) – for all code-based projects
-- 👤 Developed and maintained by **Ashley Mathias**
-- 📜 Documentation is released under **Creative Commons Attribution 4.0 International**
+- 💼 [LinkedIn](https://www.linkedin.com/in/ashley-mathias/)
+- 📊 [LeetCode](https://leetcode.com/your-leetcode-id) *(update your LeetCode link if needed)*
 
 ---
 
-> Built with ❤️ by Ashley Mathias
+## 📜 License & Credits
+
+- 💻 **Projects** are under [MIT License](https://choosealicense.com/licenses/mit/)
+- 🧠 Inspired by real-world needs and personal learning
+- 🧑‍💻 Built and maintained with ❤️ by **Ashley Mathias**
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ashleymathias?style=social" />
+  <img src="https://img.shields.io/github/stars/ashleymathias?style=social" />
+</p>
+
+<p align="center"><i>Built with ⚡ passion and ☕ caffeine</i></p>
