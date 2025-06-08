@@ -35,10 +35,10 @@
 
 | Project              | Description                                                    | Technologies                       | Link                                                  |
 |----------------------|----------------------------------------------------------------|----------------------------------|-------------------------------------------------------|
-| **📄 Resume Parser**   | Extracts and analyzes resume content with a vibrant Tkinter GUI | Python, PyPDF2, Tkinter           | [View on GitHub](https://github.com/yourusername/resume-parser) |
-| **📁 File Organizer**  | Automatically sorts and organizes files by type via GUI        | Python, OS, Shutil, Tkinter       | [View on GitHub](https://github.com/yourusername/file-organizer) |
-| **🌦️ Weather Dashboard** | Real-time weather updates from OpenWeatherMap API in GUI       | Python, Tkinter, API, JSON        | [View on GitHub](https://github.com/yourusername/weather-dashboard) |
-| **🧠 Basic Prompt RAG** | Implemented simple Retrieval-Augmented Generation pipeline      | Python, LangChain, Prompt Engineering | [View on GitHub](https://github.com/yourusername/rag-tutorial) |
+| **📄 Resume Parser**   | Extracts and analyzes resume content with a vibrant Tkinter GUI | Python, PyPDF2, Tkinter           | [View on GitHub](https://github.com/AshleyMathias/automates-resume-parser) |
+| **📁 File Organizer**  | Automatically sorts and organizes files by type via GUI        | Python, OS, Shutil, Tkinter       | [View on GitHub](https://github.com/AshleyMathias/File-Organizer-Tool) |
+| **🌦️ Weather Dashboard** | Real-time weather updates from OpenWeatherMap API in GUI       | Python, Tkinter, API, JSON        | [View on GitHub](https://github.com/AshleyMathias/Realtime-Weather-Dashboard) |
+| **🧠 Basic Prompt RAG** | Implemented simple Retrieval-Augmented Generation pipeline      | Python, LangChain, Prompt Engineering | [View on GitHub](https://github.com/AshleyMathias/Basic-Prompt-Engineering-with-RAG) |
 
 ---
 
