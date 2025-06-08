@@ -45,11 +45,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img src="https://quickchart.io/chart?c={ type:'doughnut', data:{ labels:['Python', 'JavaScript', 'SQL', 'C++', 'Java'], datasets:[{ label:'Language Usage', data:[45, 20, 15, 10, 10], backgroundColor:['#3776AB','#F7DF1E','#003B57','#00599C','#007396'], borderWidth:1 }] }, options:{ plugins:{legend:{position:'bottom',labels:{font:{size:14}}}}, cutout:'65%' } }" alt="Most Used Languages" width="400" /> </p>
----
-
-### 🏆 Coding Profile
-<p align="center"> <a href="https://leetcode.com/yourleetcode" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" /> </a> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="60%" /> </p>
 ---
 
 ### 💼 Connect with Me
