@@ -45,8 +45,11 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;"> <div style="flex: 1 1 320px; max-width: 480px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2); overflow: hidden;"> <h3 style="background: #F97316; color: white; margin: 0; padding: 10px 0; font-weight: 700;">GitHub Overview</h3> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true&hide_border=true" alt="GitHub Stats" style="width: 100%; display: block;" /> </div> <div style="flex: 1 1 280px; max-width: 320px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); overflow: hidden;"> <h3 style="background: #22D3EE; color: #0F172A; margin: 0; padding: 10px 0; font-weight: 700;">Most Used Languages</h3> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_title=true&hide_border=true" alt="Top Languages" style="width: 100%; display: block;" /> </div> </div> <div align="center" style="margin-top: 1rem;"> <a href="https://leetcode.com/yourleetcode" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" /> </a> </div>
+<p align="center"> <img src="https://quickchart.io/chart?c={ type:'doughnut', data:{ labels:['Python', 'JavaScript', 'SQL', 'C++', 'Java'], datasets:[{ label:'Language Usage', data:[45, 20, 15, 10, 10], backgroundColor:['#3776AB','#F7DF1E','#003B57','#00599C','#007396'], borderWidth:1 }] }, options:{ plugins:{legend:{position:'bottom',labels:{font:{size:14}}}}, cutout:'65%' } }" alt="Most Used Languages" width="400" /> </p>
+---
 
+### 🏆 Coding Profile
+<p align="center"> <a href="https://leetcode.com/yourleetcode" target="_blank" rel="noopener noreferrer" style="text-decoration:none;"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" /> </a> </p>
 ---
 
 ### 💼 Connect with Me
