@@ -13,7 +13,7 @@
 - Experienced in **automation workflows**, **RAG (Retrieval-Augmented Generation)**, and **LangChain**  
 - Currently diving deeper into **n8n workflow automation**, **API integrations**, and **scalable project architecture**  
 - Strong foundation in **Data Structures & Algorithms (DSA)**, **OOPS**, and backend scripting  
-- Regularly solving coding challenges on [LeetCode](https://leetcode.com/) to sharpen problem-solving skills  
+- Regularly solving coding challenges on [LeetCode](https://leetcode.com/u/ashley_12345/) to sharpen problem-solving skills  
 - Always eager to collaborate, learn, and innovate!
 
 ---
@@ -53,8 +53,8 @@
 ### 💼 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/yourleetcode" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://linkedin.com/in/ashleymathias10" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/ashley_12345/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
 </p>
 
 ---
