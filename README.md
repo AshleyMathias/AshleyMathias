@@ -1,116 +1,96 @@
-<h1 align="center">🚀 Ashley Mathias 🚀</h1>  
+<h1 align="center">🚀 Ashley Mathias 🚀</h1>
+
 <p align="center">
-
-
-
+  <i>Turning ideas into solutions. Building, Automating, and Learning with Python.</i><br>
+  <strong>🚀 Developer | 🔬 Learner | 💡 Builder</strong>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-%234CAF50.svg?style=for-the-badge&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-%23FFD700.svg?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-%2300748F.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-%23000000.svg?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=OpenAI&logoColor=white" />
 </p>
 
 ---
 
 🔥 **"Code. Learn. Iterate. Dominate."** 🔥  
-🚀 Turning ideas into **working AI models** & **ML solutions**.  
-⚡ Automating the future with **Python, Kotlin, and AI-driven projects**.  
-📍 Find me in the **terminal**, crunching **data & algorithms**.  
-💡 **Never stuck, always debugging & optimizing!**  
+⚡ Exploring AI, automation, and intelligent tooling.  
+💻 Developing practical Python apps with interactive UIs.  
+🔎 Passionate about learning, experimenting, and building real-world projects.
 
 ---
 
-
-<h2> 🚀 Tech Stack & Skills </h2>
-
-<table>
-  <tr>
-    <td><b>💻 Programming</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-%2300ADD8.svg?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
-    </td>
-  </tr>
-  
-  <tr>
-    <td><b>🤖 AI & ML</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Machine%20Learning-%23FF9800.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Deep%20Learning-%239C27B0.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/NLP-%234CAF50.svg?style=for-the-badge&logo=googletranslate&logoColor=white" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>⚡ ML Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Google%20Colab-%23FFD700.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>📊 Data Science</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Pandas-%231B5E20.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Matplotlib-%23F57C00.svg?style=for-the-badge&logo=plotly&logoColor=white" />
-      <img src="https://img.shields.io/badge/Seaborn-%230072B5.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-
-🔥 GitHub Insights  
-
-<h2> 🚀 GitHub Stats </h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshleyMathias&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AshleyMathias&theme=radical" width="48%"/>
-</p>
-  
 ## 🚀 Featured Projects
 
-| **Project**                                                           | **Description**                                                                                           | **Tech Stack**                                          |
-|----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
-| [NLP Chatbot for Customer Support](https://github.com/AshleyMathias/NLP-Chatbot) | An AI-driven chatbot to handle FAQs and complex user queries with advanced NLP.                           | **Python**, **TensorFlow**, **NLP**, **Transformers**  |
-| [Medical Data Analysis Tool](https://github.com/AshleyMathias/Med-Analytics)      | Predicting patient risk levels & proposing treatments using ML algorithms and data visualization.         | **Python**, **Pandas**, **Scikit-Learn**, **Seaborn**  |
-| [AI-Powered Recommendation Engine](https://github.com/AshleyMathias/AI-Recommendations) | Personalized product recommendations for e-commerce using collaborative filtering and machine learning.    | **Python**, **PyTorch**, **Machine Learning**          |
+### 🧠 **Automated Resume Parser and Matcher**
+> A Python-based tool to parse resumes and match them with job descriptions.
+- Built using **Tkinter**, **PyPDF2**, **Regex**.
+- Extracts keywords from resumes and job posts for similarity matching.
 
-> _More projects coming soon..._ ✨  
+[🔗 View on GitHub](https://github.com/ashleymathias/automated-resume-parser)
 
+---
 
-<h2> 🚀 Currently Working On </h2>
+### 📁 **File Organizer and Directory Automation Tool**
+> A GUI-based Python script that organizes files into folders by type.
+- Powered by **OS**, **shutil**, and **Tkinter**.
+- Simplifies messy directories into clean, sorted folders.
 
-- 🤖 **Building AI Models in Python & Kotlin**
-- 🚀 **Mastering NLP & Deep Learning**
-- 🛠️ **Optimizing Machine Learning Pipelines**
-- 🔥 **Contributing to Open-Source AI Projects**
-- 📚 **Expanding Knowledge in Data Science & AI** 
+[🔗 View on GitHub](https://github.com/ashleymathias/file-organizer)
 
+---
 
-<h2> 🔗 Connect With Me </h2>
+### ☁️ **Realtime Weather Dashboard using API**
+> Tkinter-based weather app that fetches real-time data from OpenWeatherMap.
+- Integrates **API**, **JSON parsing**, and **Tkinter GUI**.
+- User-friendly interface with live weather updates by city name.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashleymathias10/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/ashleymathias31">
-    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://github.com/AshleyMathias">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:ashleymathias100@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[🔗 View on GitHub](https://github.com/ashleymathias/weather-dashboard)
 
+---
 
-✨ Feel free to explore my repositories & collaborate on AI-driven projects! 🚀
+### 📄 **Basic Prompt Engineering with RAG**
+> RAG-based experiment using LangChain and local document querying.
+- Built with **LangChain**, **FAISS**, **Tkinter**.
+- Demonstrates retrieval-augmented generation on static data.
+
+[🔗 View on GitHub](https://github.com/ashleymathias/basic-rag-app)
+
+---
+
+## 🧰 Tech Stack & Tools
+
+| Category | Tools |
+|---------|-------|
+| **Languages & Logic** | Python, SQL, DSA, OOPs |
+| **Libraries & Frameworks** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Automation & GUI** | Tkinter, Regex, LangChain |
+| **Visualization & Data** | Jupyter, Google Colab |
+| **Dev Tools** | Cursor, VS Code, Git, GitHub |
+| **AI Tools** | LangChain, RAG, OpenAI |
+| **Competitive Programming** | LeetCode |
+
+---
+
+## 🌐 Let's Connect
+
+- 🔗 [LinkedIn](https://linkedin.com/in/ashley-mathias)
+- 🧠 [LeetCode](https://leetcode.com/ashleymathias)
+- 💼 [GitHub Portfolio](https://github.com/ashleymathias)
+
+---
+
+## 🛡️ Licenses
+
+This repository and projects are released under the following licenses:
+
+- ⚖️ [MIT License](https://opensource.org/licenses/MIT) – for all code-based projects
+- 👤 Developed and maintained by **Ashley Mathias**
+- 📜 Documentation is released under **Creative Commons Attribution 4.0 International**
+
+---
+
+> Built with ❤️ by Ashley Mathias
