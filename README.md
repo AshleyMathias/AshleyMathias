@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#F97316;">Ashley Mathias</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=22D3EE&width=435&lines=Python+Developer;DSA+%7C+OOPS+Practitioner;Prompt+Engineer+%7C+LangChain+%7C+RAG;Building+Automation+with+n8n+%26+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=22D3EE&width=435&lines=Python+Developer;DSA+%7C+OOPS+Practitioner;Prompt+Engineer+%7C+LangChain+%7C+LangGraph+RAG;Building+Automation+with+n8n+%26+Python" alt="Typing SVG" />
 </p>
 
 
