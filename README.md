@@ -20,14 +20,16 @@
 
 ### 🛠️ Tech Stack
 
-| Category           | Tools                                                                                                                      |
-|--------------------|----------------------------------------------------------------------------------------------------------------------------|
-| **Languages**      | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **Python Libraries** | ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-006699?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white) |
-| **AI & RAG Tools**  | ![LangChain](https://img.shields.io/badge/LangChain-blueviolet?style=for-the-badge&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-green?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt--Engineering-orange?style=for-the-badge) |
-| **Automation**     | ![n8n](https://img.shields.io/badge/n8n-F35421?style=for-the-badge&logo=n8n&logoColor=white) ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-FFAE00?style=for-the-badge&logo=python&logoColor=white) |
-| **Data & Analysis** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) |
-| **Tools & IDEs**   | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-4D4D4D?style=for-the-badge) |
+| Category              | Tools                                                                                                                                                                                                                               |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**         | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)                                                                                                                              |
+| **LLMs & NLP**        | ![GPT-4](https://img.shields.io/badge/GPT--4-8A2BE2?style=for-the-badge&logo=openai&logoColor=white) ![Gemma](https://img.shields.io/badge/Gemma-FF6F61?style=for-the-badge) ![Phi-3](https://img.shields.io/badge/Phi--3-004880?style=for-the-badge) |
+| **Frameworks & Tools**| ![LangChain](https://img.shields.io/badge/LangChain-4B0082?style=for-the-badge) ![LangGraph](https://img.shields.io/badge/LangGraph-006400?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-4682B4?style=for-the-badge) |
+| **Fine-Tuning Tools** | ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black) ![LoRA](https://img.shields.io/badge/LoRA-800080?style=for-the-badge) ![PEFT](https://img.shields.io/badge/PEFT-7B68EE?style=for-the-badge) |
+| **Vector Stores**     | ![ChromaDB](https://img.shields.io/badge/ChromaDB-1E90FF?style=for-the-badge) ![FAISS](https://img.shields.io/badge/FAISS-2F4F4F?style=for-the-badge) ![Qdrant](https://img.shields.io/badge/Qdrant-4B4B4B?style=for-the-badge) |
+| **Copilot Dev**       | ![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20365%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Graph API](https://img.shields.io/badge/Graph%20API-00A4EF?style=for-the-badge&logo=microsoftgraph&logoColor=white) |
+| **Automation & OCR**  | ![n8n](https://img.shields.io/badge/n8n-F35421?style=for-the-badge&logo=n8n&logoColor=white) ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-00599C?style=for-the-badge) ![Donut OCR](https://img.shields.io/badge/DonutOCR-DB7093?style=for-the-badge) |
+| **Dev & Utilities**   | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 
 ---
 
