@@ -35,9 +35,9 @@
 
 | Project              | Description                                                    | Technologies                       | Link                                                  |
 |----------------------|----------------------------------------------------------------|----------------------------------|-------------------------------------------------------|
-| **📄 Resume Parser**   | Extracts and analyzes resume content with a vibrant Tkinter GUI | Python, PyPDF2, Tkinter           | [View on GitHub](https://github.com/AshleyMathias/automated-resume-parser) |
-| **📁 File Organizer**  | Automatically sorts and organizes files by type via GUI        | Python, OS, Shutil, Tkinter       | [View on GitHub](https://github.com/AshleyMathias/File-Organizer-Tool) |
-| **🌦️ Weather Dashboard** | Real-time weather updates from OpenWeatherMap API in GUI       | Python, Tkinter, API, JSON        | [View on GitHub](https://github.com/AshleyMathias/Realtime-Weather-Dashboard) |
+| **📄 CodeXCLI**   |Turns voice or text prompts into runnable code via an intelligent CLI powered by LLMs | Python, LangGraph, LangChain           | [View on GitHub](https://github.com/AshleyMathias/CodeXCLI-CursorAI-) |
+| **📁 GenAI Architectural Model**  | Answers surgical queries using local PDFs with a smart LangChain RAG setup      | Python, LangChain, RAG, Tkinter       | [View on GitHub](https://github.com/AshleyMathias/GenAI-Architectural-Model) |
+| **🌦️ Fine-Tuning With LoRA** | Fine-tunes BERT using LoRA adapters via a simple Streamlit web interface       | Python, Streamlit, LoRA, Peft        | [View on GitHub](https://github.com/AshleyMathias/fine_tuning_with_lora-main-) |
 | **🧠 Basic Prompt RAG** | Implemented simple Retrieval-Augmented Generation pipeline      | Python, LangChain, Prompt Engineering | [View on GitHub](https://github.com/AshleyMathias/Basic-Prompt-Engineering-with-RAG) |
 
 ---
