@@ -9,13 +9,13 @@
 
 ### 🚀 About Me
 
-- Passionate about building practical and impactful tools using **Python**  
-- Experienced in **automation workflows**, **RAG (Retrieval-Augmented Generation)**, and **LangChain**  
-- Currently diving deeper into **n8n workflow automation**, **API integrations**, and **scalable project architecture**  
-- Strong foundation in **Data Structures & Algorithms (DSA)**, **OOPS**, and backend scripting  
-- Regularly solving coding challenges on [LeetCode](https://leetcode.com/u/ashley_12345/) to sharpen problem-solving skills  
-- Always eager to collaborate, learn, and innovate!
-
+- Python developer passionate about building AI-driven automation tools and intelligent agents
+- Experienced in LangGraph, LangChain, and RAG pipelines for document processing and QA test case generation
+- Skilled in LLM fine-tuning, inference optimization, and deploying custom models in production
+- Actively building automation agents using Microsoft Copilot, n8n, and LLM-powered workflows
+- Proficient in integrating tools like PaddleOCR, DonutOCR, and external APIs for end-to-end intelligent automation
+- Solid foundation in DSA, OOP, and scalable backend scripting
+- Constantly exploring new ways to apply Generative AI to solve real-world business problems
 ---
 
 ### 🛠️ Tech Stack
