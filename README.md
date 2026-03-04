@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#F97316;">Ashley Mathias</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=22D3EE&width=435&lines=Python+Developer;DSA+%7C+OOP+Practitioner;Prompt+Engineer+%7C+LangChain+%7C+LangGraph+RAG;Building+Automation+with+n8n+%26+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=22D3EE&width=500&lines=AI+Engineer+%7C+Python+%26+Kotlin;LangChain+%7C+LangGraph+%7C+RAG+Pipelines;Building+Agents+%26+Automation;n8n+%7C+Copilot+%7C+LLM+Fine-tuning" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🐍 Python developer passionate about building **AI-driven automation tools** and intelligent agents
-- ⚡ Experienced in **LangGraph**, **LangChain**, and **RAG pipelines** for document processing & QA test case generation
-- 🪄 Skilled in **LLM fine-tuning**, inference optimization, and deploying custom models in production
-- 🤖 Building automation agents using **Microsoft Copilot**, **n8n**, and LLM-powered workflows
-- 🛠️ Integrating tools like **PaddleOCR, DonutOCR**, and external APIs for end-to-end intelligent automation
-- 📚 Strong foundation in **DSA**, **OOP**, and scalable backend scripting
-- 🌱 Always exploring new ways to apply **Generative AI** to real-world business problems
+- 🐍 **Python developer** focused on **AI-driven automation**, intelligent agents, and production-ready systems
+- ⚡ **LangGraph, LangChain & RAG** — document processing, policy Q&A, and test case generation
+- 🪄 **LLM fine-tuning & inference** — Hugging Face, LoRA/PEFT, and deploying models at scale
+- 🤖 **Automation** — Microsoft Copilot, **n8n**, and LLM-powered workflows
+- 🛠️ **Document intelligence** — PaddleOCR, DonutOCR, and custom APIs for end-to-end automation
+- 📚 Strong in **DSA**, **OOP**, and scalable backend design
+- 🌱 Applying **Generative AI** to real-world business problems
 
 ---
 
@@ -41,6 +41,7 @@
       <img src="https://img.shields.io/badge/LangChain-4B0082?style=for-the-badge" alt="LangChain"/>
       <img src="https://img.shields.io/badge/LangGraph-006400?style=for-the-badge" alt="LangGraph"/>
       <img src="https://img.shields.io/badge/RAG-4682B4?style=for-the-badge" alt="RAG"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
     </td>
   </tr>
   <tr>
@@ -88,12 +89,13 @@
 
 ## 📂 Featured Projects
 
-| Project                                   | Description                                                                       | Technologies                          | Link                                                                 |
-|--------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------|----------------------------------------------------------------------|
-| **📄 CodeXCLI**                           | Turns voice or text prompts into runnable code via an intelligent CLI powered by LLMs | Python, LangGraph, LangChain          | [View on GitHub](https://github.com/AshleyMathias/CodeXCLI-CursorAI-) |
-| **📁 GenAI Architectural Model**           | Answers surgical queries using local PDFs with a smart LangChain RAG setup         | Python, LangChain, RAG, Tkinter       | [View on GitHub](https://github.com/AshleyMathias/GenAI-Architectural-Model) |
-| **🌦️ Fine-Tuning With LoRA**              | Fine-tunes BERT using LoRA adapters via a simple Streamlit web interface           | Python, Streamlit, LoRA, PEFT         | [View on GitHub](https://github.com/AshleyMathias/fine_tuning_with_lora-main-) |
-| **🧠 Basic Prompt RAG**                    | Simple Retrieval-Augmented Generation pipeline                                     | Python, LangChain, Prompt Engineering | [View on GitHub](https://github.com/AshleyMathias/Basic-Prompt-Engineering-with-RAG) |
+| Project | Description | Technologies | Link |
+|---------|-------------|--------------|------|
+| **🦾 OpenClaw Bot** | Enterprise AI assistant: company policy RAG, support tickets, notifications & chat with session memory | FastAPI, LangGraph, LangChain, ChromaDB, OpenAI | [View on GitHub](https://github.com/AshleyMathias/OpenClaw---Bot) |
+| **📄 CodeXCLI** | Voice or text prompts → runnable code via an LLM-powered CLI | Python, LangGraph, LangChain | [View on GitHub](https://github.com/AshleyMathias/CodeXCLI-CursorAI-) |
+| **📁 GenAI Architectural Model** | Surgical Q&A over local PDFs with a LangChain RAG pipeline | Python, LangChain, RAG, Tkinter | [View on GitHub](https://github.com/AshleyMathias/GenAI-Architectural-Model) |
+| **🌦️ Fine-Tuning With LoRA** | BERT fine-tuning with LoRA adapters via Streamlit UI | Python, Streamlit, LoRA, PEFT | [View on GitHub](https://github.com/AshleyMathias/fine_tuning_with_lora-main-) |
+| **🧠 Basic Prompt RAG** | Retrieval-augmented generation pipeline | Python, LangChain, Prompt Engineering | [View on GitHub](https://github.com/AshleyMathias/Basic-Prompt-Engineering-with-RAG) |
 
 ---
 
@@ -122,7 +124,6 @@
   ✨ Built with 💻, ☕, and 💡 — <b>Ashley Mathias</b> ✨
 </p>
 
-<!-- DYNAMIC BADGES (optional, for more interactivity and up-to-date info) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AshleyMathias&style=flat-square&color=blue" alt="Profile Views"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AshleyMathias&theme=radical&hide_border=true" alt="GitHub Streak"/>
