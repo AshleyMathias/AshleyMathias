@@ -149,9 +149,6 @@
   </tbody>
 </table>
 
-<hr />
-<hr />
-
 <h2 align="center">Connect</h2>
 
 <p align="center">
