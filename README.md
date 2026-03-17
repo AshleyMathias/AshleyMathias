@@ -111,6 +111,12 @@
   </thead>
   <tbody>
     <tr>
+      <tr>
+      <td><strong>SecureFix AI</strong></td>
+      <td>AutoFix DevSecOps Platform</td>
+      <td>Python, LangChain, LangGraph, FastAPI, Anthropic</td>
+      <td><a href="https://github.com/AshleyMathias/SecureFix-AI">View on GitHub</a></td>
+    </tr>
       <td><strong>OpenClaw Bot</strong></td>
       <td>Enterprise AI assistant: policy RAG, support tickets, notifications, and session-based chat</td>
       <td>FastAPI, LangGraph, LangChain, ChromaDB, OpenAI</td>
@@ -139,12 +145,6 @@
       <td>BERT fine-tuning with LoRA adapters via Streamlit UI</td>
       <td>Python, Streamlit, LoRA, PEFT</td>
       <td><a href="https://github.com/AshleyMathias/fine_tuning_with_lora-main-">View on GitHub</a></td>
-    </tr>
-    <tr>
-      <td><strong>Basic Prompt RAG</strong></td>
-      <td>Retrieval-augmented generation pipeline</td>
-      <td>Python, LangChain, Prompt Engineering</td>
-      <td><a href="https://github.com/AshleyMathias/Basic-Prompt-Engineering-with-RAG">View on GitHub</a></td>
     </tr>
   </tbody>
 </table>
