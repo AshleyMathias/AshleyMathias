@@ -150,13 +150,6 @@
 </table>
 
 <hr />
-
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshleyMathias&show_icons=true&count_private=true&theme=default&hide_border=true" alt="GitHub Stats" width="70%" />
-</p>
-
 <hr />
 
 <h2 align="center">Connect</h2>
