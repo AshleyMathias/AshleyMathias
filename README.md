@@ -117,6 +117,12 @@
       <td><a href="https://github.com/AshleyMathias/OpenClaw---Bot">View on GitHub</a></td>
     </tr>
     <tr>
+      <td><strong>Agentic Node</strong></td>
+      <td>Enterprise AI assistant: policy RAG, HR & Analytics and session-based chat</td>
+      <td>FastAPI, LangGraph, LangChain, ChromaDB, OpenAI</td>
+      <td><a href="https://github.com/AshleyMathias/Agentic-Node">View on GitHub</a></td>
+    </tr>
+    <tr>
       <td><strong>CodeXCLI</strong></td>
       <td>Voice/text prompts to runnable code via an LLM-powered CLI</td>
       <td>Python, LangGraph, LangChain</td>
