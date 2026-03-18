@@ -211,7 +211,7 @@
 </table>
 
 </div>
-
+<hr />
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Performance%20%7C%20Security%20%7C%20Scale-238636?style=for-the-badge" />
 </p>
