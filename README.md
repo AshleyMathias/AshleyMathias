@@ -176,7 +176,6 @@
 </p>
 
 <hr />
-<hr />
 
 <h2 align="center">⚡ Deep Dive Projects</h2>
 
