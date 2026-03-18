@@ -35,63 +35,78 @@
   <tr>
     <td><strong>Languages</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
     </td>
   </tr>
+
   <tr>
-    <td><strong>LLMs &amp; NLP</strong></td>
+    <td><strong>LLMs & NLP</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/GPT--4-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4" />
-      <img src="https://img.shields.io/badge/Gemma-FF6F61?style=for-the-badge" alt="Gemma" />
-      <img src="https://img.shields.io/badge/Phi--3-004880?style=for-the-badge" alt="Phi-3" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Gemma-FF6F61?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Phi--3-004880?style=for-the-badge" />
     </td>
   </tr>
+
   <tr>
-    <td><strong>Frameworks &amp; Tools</strong></td>
+    <td><strong>AI Frameworks</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/LangChain-4B0082?style=for-the-badge" alt="LangChain" />
-      <img src="https://img.shields.io/badge/LangGraph-006400?style=for-the-badge" alt="LangGraph" />
-      <img src="https://img.shields.io/badge/RAG-4682B4?style=for-the-badge" alt="RAG" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/LangChain-4B0082?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/LangGraph-006400?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/RAG-4682B4?style=for-the-badge" />
     </td>
   </tr>
+
   <tr>
-    <td><strong>Fine-Tuning</strong></td>
+    <td><strong>Backend & APIs</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
-      <img src="https://img.shields.io/badge/LoRA-800080?style=for-the-badge" alt="LoRA" />
-      <img src="https://img.shields.io/badge/PEFT-7B68EE?style=for-the-badge" alt="PEFT" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST%20API-FF5733?style=for-the-badge" />
     </td>
   </tr>
+
+  <tr>
+    <td><strong>Data & ML</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge" />
+    </td>
+  </tr>
+
   <tr>
     <td><strong>Vector Stores</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/ChromaDB-1E90FF?style=for-the-badge" alt="ChromaDB" />
-      <img src="https://img.shields.io/badge/FAISS-2F4F4F?style=for-the-badge" alt="FAISS" />
-      <img src="https://img.shields.io/badge/Qdrant-4B4B4B?style=for-the-badge" alt="Qdrant" />
+      <img src="https://img.shields.io/badge/ChromaDB-1E90FF?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/FAISS-2F4F4F?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Qdrant-4B4B4B?style=for-the-badge" />
     </td>
   </tr>
+
   <tr>
-    <td><strong>Copilot &amp; APIs</strong></td>
+    <td><strong>Fine-Tuning</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Microsoft%20365%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Copilot" />
-      <img src="https://img.shields.io/badge/Graph%20API-00A4EF?style=for-the-badge&logo=microsoftgraph&logoColor=white" alt="Graph API" />
+      <img src="https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/LoRA-800080?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/PEFT-7B68EE?style=for-the-badge" />
     </td>
   </tr>
+
   <tr>
-    <td><strong>Automation &amp; OCR</strong></td>
+    <td><strong>Automation</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/n8n-F35421?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-      <img src="https://img.shields.io/badge/PaddleOCR-00599C?style=for-the-badge" alt="PaddleOCR" />
-      <img src="https://img.shields.io/badge/DonutOCR-DB7093?style=for-the-badge" alt="DonutOCR" />
+      <img src="https://img.shields.io/badge/n8n-F35421?style=for-the-badge&logo=n8n&logoColor=white" />
     </td>
   </tr>
+
   <tr>
-    <td><strong>Dev &amp; Tools</strong></td>
+    <td><strong>Dev & Deployment</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
     </td>
   </tr>
 </table>
