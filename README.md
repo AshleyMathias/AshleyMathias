@@ -19,12 +19,12 @@
 </p>
 
 <ul>
-  <li><strong>Core focus:</strong> Python-based AI systems, LangChain/LangGraph, RAG pipelines, and production deployment</li>
-  <li><strong>Experience:</strong> Document processing, policy Q&amp;A, test case generation, and end-to-end automation</li>
-  <li><strong>Fine-tuning &amp; inference:</strong> Hugging Face, LoRA/PEFT, and scalable model serving</li>
-  <li><strong>Automation:</strong> Microsoft Copilot, n8n, and custom LLM workflows</li>
-  <li><strong>Document intelligence:</strong> PaddleOCR, DonutOCR, and custom API integrations</li>
-  <li><strong>Engineering:</strong> DSA, OOP, and scalable backend design</li>
+  <li><strong>Core focus:</strong> Building AI-powered applications using Python, LangChain, LangGraph, and Retrieval-Augmented Generation (RAG)</li>
+  <li><strong>AI Engineering:</strong> Designing end-to-end LLM systems including prompt engineering, evaluation, and workflow orchestration</li>
+  <li><strong>Experience:</strong> Developing real-world projects like resume parsing, document Q&A systems, and intelligent automation tools</li>
+  <li><strong>Data & ML Stack:</strong> Pandas, NumPy, NLP fundamentals, and practical machine learning integration</li>
+  <li><strong>Automation & Workflows:</strong> Building scalable pipelines using n8n and custom LLM-driven workflows</li>
+  <li><strong>Backend & Problem Solving:</strong> Strong foundation in DSA, OOP, and API-based system design</li>
 </ul>
 
 <hr />
