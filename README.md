@@ -176,7 +176,46 @@
 </p>
 
 <hr />
+<hr />
 
+<h2 align="center">⚡ Deep Dive Projects</h2>
+
+<p align="center">
+  <strong>Exploring advanced LLM optimization & real-world AI constraints</strong>
+</p>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Concept</th>
+      <th>What it Solves</th>
+      <th>Key Idea</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>⚡ Speculative Decoding</strong></td>
+      <td>Reduces latency in LLM inference</td>
+      <td>Uses a smaller draft model to predict tokens, validated by a larger model</td>
+      <td><a href="https://github.com/AshleyMathias/Speculative-Decoding">View</a></td>
+    </tr>
+    <tr>
+      <td><strong>🛡️ PII Masking (Presidio)</strong></td>
+      <td>Protects sensitive user data</td>
+      <td>Detects and anonymizes personal information in text using NLP pipelines</td>
+      <td><a href="https://github.com/AshleyMathias/PII-Masking---Presidio">View</a></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Performance%20%7C%20Security%20%7C%20Scale-238636?style=for-the-badge" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AshleyMathias&style=flat-square&color=238636" alt="Profile Views" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AshleyMathias&theme=default&hide_border=true" alt="GitHub Streak" />
