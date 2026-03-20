@@ -164,19 +164,6 @@
   </tbody>
 </table>
 
-<h2 align="center">Connect</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ashleymathias10" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/ashley_12345/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
-
-<hr />
-
 <h2 align="center">⚡ Deep Dive Projects</h2>
 
 <p align="center">
@@ -209,6 +196,20 @@
     </tr>
   </tbody>
 </table>
+
+<h2 align="center">Connect</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ashleymathias10" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/ashley_12345/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
+<hr />
+
 
 </div>
 <hr />
