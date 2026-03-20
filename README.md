@@ -164,7 +164,7 @@
   </tbody>
 </table>
 
-<h2 align="center">⚡ Deep Dive Projects</h2>
+<h2 align="center">Deep Dive Projects</h2>
 
 <p align="center">
   <strong>Exploring advanced LLM optimization & real-world AI constraints</strong>
@@ -183,13 +183,13 @@
   </thead>
   <tbody>
     <tr>
-      <td><strong>⚡ Speculative Decoding</strong></td>
+      <td><strong>Speculative Decoding</strong></td>
       <td>Reduces latency in LLM inference</td>
       <td>Uses a smaller draft model to predict tokens, validated by a larger model</td>
       <td><a href="https://github.com/AshleyMathias/Speculative-Decoding">View</a></td>
     </tr>
     <tr>
-      <td><strong>🛡️ PII Masking (Presidio)</strong></td>
+      <td><strong>PII Masking (Presidio)</strong></td>
       <td>Protects sensitive user data</td>
       <td>Detects and anonymizes personal information in text using NLP pipelines</td>
       <td><a href="https://github.com/AshleyMathias/PII-Masking---Presidio">View</a></td>
