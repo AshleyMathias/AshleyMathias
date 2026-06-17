@@ -194,6 +194,12 @@
       <td>Detects and anonymizes personal information in text using NLP pipelines</td>
       <td><a href="https://github.com/AshleyMathias/PII-Masking---Presidio">View</a></td>
     </tr>
+        <tr>
+      <td><strong>Deep Agent Todo Planner</strong></td>
+      <td>Plans learning goals with autonomous agents</td>
+      <td>Uses LangChain Deep Agents and OpenAI to decompose goals into tasks, store them in a workspace, and generate roadmaps via a Streamlit UI</td>
+      <td><a href="https://github.com/AshleyMathias/Deep-Agents-LangChain">View</a></td>
+    </tr>
   </tbody>
 </table>
 
