@@ -92,55 +92,56 @@ class AshleyMathias:
 
 <div align="center">
 
-**Languages & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,vscode,postgres&theme=dark" />
 
 <br/><br/>
 
-**AI / LLM Ecosystem**
-<br/>
-<img src="https://img.shields.io/badge/LangChain-1a3520?style=for-the-badge&logoColor=4ade80" />
-<img src="https://img.shields.io/badge/LangGraph-064e3b?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-1e3a5f?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic-1a1a1a?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD700?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Gemma-FF6F61?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Phi--3-004880?style=for-the-badge&logoColor=white" />
-
-<br/><br/>
-
-**Vector Stores**
-<br/>
-<img src="https://img.shields.io/badge/ChromaDB-1E90FF?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/FAISS-2F4F4F?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white" />
-
-<br/><br/>
-
-**Fine-Tuning Stack**
-<br/>
-<img src="https://img.shields.io/badge/LoRA-6b21a8?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/PEFT-5b21b6?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/QLoRA-7c3aed?style=for-the-badge&logoColor=white" />
-
-<br/><br/>
-
-**Backend · DevOps · Automation**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git,vscode&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/n8n-F35421?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-FF5733?style=for-the-badge&logoColor=white" />
-
-<br/><br/>
-
-**Data & ML**
-<br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-6d28d9?style=for-the-badge&logoColor=white" />
+<table>
+  <tr>
+    <td align="center" width="130"><b>🤖&nbsp;AI&nbsp;/&nbsp;LLM</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-1a4731?style=flat-square&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/LangGraph-14532d?style=flat-square&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/RAG-1e3a5f?style=flat-square&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/Anthropic-1a1a1a?style=flat-square&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/HuggingFace-FFD700?style=flat-square&logo=huggingface&logoColor=black" />&nbsp;
+      <img src="https://img.shields.io/badge/Gemma-E8503A?style=flat-square&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/Phi--3-004880?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️&nbsp;Vector&nbsp;DBs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/ChromaDB-1e5799?style=flat-square&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/FAISS-2c3e50?style=flat-square&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔬&nbsp;Fine-Tuning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LoRA-6b21a8?style=flat-square&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/PEFT-5b21b6?style=flat-square&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/QLoRA-7c3aed?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚡&nbsp;Automation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/n8n-F35421?style=flat-square&logo=n8n&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/REST%20API-e74c3c?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>📊&nbsp;Data&nbsp;/&nbsp;ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />&nbsp;
+      <img src="https://img.shields.io/badge/NLP-6d28d9?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
