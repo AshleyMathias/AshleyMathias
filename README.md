@@ -3,7 +3,7 @@
 <h1>Hi, I'm <span style="color:#F97316;">Ashley Mathias</span></h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=238636&width=520&lines=AI+Engineer+%7C+Python+%26+Kotlin;LangChain+%7C+LangGraph+%7C+RAG+Pipelines;Enterprise+Agents+%26+Deep+Agents;n8n+%7C+Copilot+%7C+LLM+Fine-tuning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=238636&width=520&lines=AI+Engineer+%7C+Python;LangChain+%7C+LangGraph+%7C+RAG+Pipelines;Enterprise+Agents+%26+Deep+Agents;n8n+%7C+Copilot+%7C+LLM+Fine-tuning" alt="Typing SVG" />
 </p>
 
 <p><strong>Building production-grade AI systems · RAG · Agents · Automation</strong></p>
