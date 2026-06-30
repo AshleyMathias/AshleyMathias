@@ -238,6 +238,12 @@ class AshleyMathias:
       <td>Autonomous LangChain agents break goals → tasks → roadmaps via Streamlit</td>
       <td align="center"><a href="https://github.com/AshleyMathias/Deep-Agents-LangChain">→</a></td>
     </tr>
+       <tr>
+      <td align="center"><strong>Incremental Context Builder MCP</strong></td>
+      <td>Context building in MCP</td>
+      <td>Small draft model predicts tokens; large model validates in parallel</td>
+      <td align="center"><a href="https://github.com/AshleyMathias/Incremental-Context-Building-MCP">→</a></td>
+    </tr>
   </tbody>
 </table>
 
