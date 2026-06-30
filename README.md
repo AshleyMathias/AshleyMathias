@@ -241,7 +241,7 @@ class AshleyMathias:
        <tr>
       <td align="center"><strong>Incremental Context Builder MCP</strong></td>
       <td>Context building in MCP</td>
-      <td>Small draft model predicts tokens; large model validates in parallel</td>
+      <td>Eductaional Demo for Understanding Incremental Context Building in MCP</td>
       <td align="center"><a href="https://github.com/AshleyMathias/Incremental-Context-Building-MCP">→</a></td>
     </tr>
   </tbody>
